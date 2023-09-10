@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717340233940",
+    "project_id": "oylapp-8e43e",
+    "storage_bucket": "oylapp-8e43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717340233940:android:b565a1526e81bd1deb2b41",
+        "android_client_info": {
+          "package_name": "com.oylapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717340233940-hhl09ss1u0r4vje39mqgvsq9f55gkjid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlhIl7zZjfRHLUocu0-U32rtesdqApT5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717340233940-hhl09ss1u0r4vje39mqgvsq9f55gkjid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
